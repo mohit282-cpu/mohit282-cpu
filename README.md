@@ -154,7 +154,7 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/mohit282-cpu/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/mohit282-cpu/mohit282-cpu/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
