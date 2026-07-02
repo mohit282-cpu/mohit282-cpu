@@ -1,10 +1,23 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm MOHIT CTHA
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:2563EB,100:38BDF8&text=MOHIT%20CTHA&fontColor=ffffff&fontSize=48&fontAlign=50&fontAlignY=40"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Founder+%26+CEO;Full+Stack+Developer;Open+Source+Contributor;AI+%7C+IoT+%7C+Cloud+Developer;Building+Technology+for+Everyone." />
+<h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Hi, I'm Mohit Ctha
+</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20to%20My%20GitHub&fontSize=45&fontAlign=50&fontAlignY=40&color=0:0F2027,50:203A43,100:2C5364"/>
+<h3>🚀 Founder & CEO of Sovryx Tech</h3>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Founder+of+Sovryx+Tech;AI+%7C+Cloud+%7C+IoT+Developer;Open+Source+Contributor;Building+Modern+Software;Turning+Ideas+Into+Reality"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=mohit282-cpu&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/mohit282-cpu?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/mohit282-cpu?style=for-the-badge&logo=github"/>
 
 </div>
 
@@ -12,44 +25,57 @@
 
 # 💫 About Me
 
-<img align="right" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-🎓 Passionate Software Developer
+🎓 IT Student from Nepal 🇳🇵
 
-💼 Founder & CEO
+🏢 Founder & CEO of **Sovryx Tech**
 
-🌍 Building SaaS, AI, IoT & Cloud Solutions
-
-💻 Full Stack Developer
+💻 Passionate Full Stack Developer
 
 🚀 Open Source Contributor
 
-🌱 Currently Learning
+🌍 Building SaaS, AI, IoT and Cloud Solutions
+
+💡 I love solving real-world problems through technology and building products that help businesses grow.
+
+---
+
+## 🌱 Currently Learning
 
 - Artificial Intelligence
 - Cloud Computing
 - DevOps
 - Cyber Security
-
-⚡ Fun Fact
-
-> "First solve the problem, then write the code."
+- System Design
+- Software Architecture
 
 ---
 
-# 🚀 Tech Stack
+## 🎯 Current Focus
 
-## Languages
+- 🚀 SaaS Product Development
+- 🤖 AI Applications
+- ☁ Cloud Infrastructure
+- 🌐 Modern Web Development
+- 📱 Mobile Applications
+- 🔒 Cyber Security
+
+---
+
+# 🛠 Tech Stack
+
+### 💻 Programming Languages
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,c,cpp,java"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,php,python,c,cpp,java"/>
 
 </p>
 
 ---
 
-## Frontend
+### ⚛ Frontend
 
 <p align="center">
 
@@ -59,17 +85,17 @@
 
 ---
 
-## Backend
+### ⚙ Backend
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel"/>
 
 </p>
 
 ---
 
-## Database
+### 🗄 Database
 
 <p align="center">
 
@@ -79,7 +105,7 @@
 
 ---
 
-## DevOps & Cloud
+### ☁ DevOps & Cloud
 
 <p align="center">
 
@@ -89,34 +115,59 @@
 
 ---
 
-## Tools
+### 🛠 Tools
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,postman,notion"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,notion,photoshop"/>
 
 </p>
 
 ---
 
-# 🚀 Current Projects
+# 🚀 Featured Projects
 
-- 🧠 AI Applications
-- 📱 Mobile Apps
-- 🌐 SaaS Products
-- 🏫 School ERP
-- 🏢 Business ERP
-- 🍽 QR Restaurant System
-- 🤖 IoT Systems
-- ☁ Cloud Infrastructure
+## 🏢 Sovryx Tech
+
+Affordable software development company delivering websites, software, SaaS products and cloud solutions.
 
 ---
 
-# 📊 GitHub Analytics
+## 🍽 Restaurant QR Ordering System
+
+QR-based restaurant ordering platform with admin dashboard, kitchen management and payment integration.
+
+---
+
+## 🔐 Smart Door Security System
+
+Face Recognition • Fingerprint • GSM Alerts • Cloud Dashboard • IoT Security
+
+---
+
+## 🏫 School ERP
+
+Attendance • Fees • Exams • Results • Student Management
+
+---
+
+## 📦 Business ERP
+
+Inventory • CRM • Billing • Accounting • HRM • Reports
+
+---
+
+## 🤖 AI Solutions
+
+Custom AI Chatbots • Automation • Business Intelligence
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohit282-cpu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohit282-cpu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
 
 <img width="49%" src="https://streak-stats.demolab.com?user=mohit282-cpu&theme=tokyonight&hide_border=true"/>
 
@@ -124,17 +175,17 @@
 
 <p align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit282-cpu&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit282-cpu&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophy
+# 🏆 GitHub Achievements
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mohit282-cpu&theme=tokyonight&no-frame=true&no-bg=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mohit282-cpu&theme=algolia&no-frame=true&column=4&margin-w=15"/>
 
 </p>
 
@@ -144,7 +195,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohit282-cpu&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohit282-cpu&theme=react-dark&hide_border=true"/>
 
 </p>
 
@@ -154,13 +205,21 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/mohit282-cpu/mohit282-cpu/output/github-contribution-grid-snake-dark.svg"/>
+<picture>
+
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohit282-cpu/mohit282-cpu/output/github-contribution-grid-snake-dark.svg">
+
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohit282-cpu/mohit282-cpu/output/github-contribution-grid-snake.svg">
+
+<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/mohit282-cpu/mohit282-cpu/output/github-contribution-grid-snake-dark.svg">
+
+</picture>
 
 </p>
 
 ---
 
-# 📚 GitHub Summary
+# 📋 GitHub Summary
 
 <p align="center">
 
@@ -180,20 +239,6 @@
 
 ---
 
-# 📈 Profile Statistics
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=mohit282-cpu&style=for-the-badge&color=blueviolet"/>
-
-<img src="https://img.shields.io/github/followers/mohit282-cpu?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/mohit282-cpu?style=for-the-badge"/>
-
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
@@ -202,70 +247,33 @@
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="YOUR_INSTAGRAM">
+<a href="https://www.instagram.com/mohit.shrestha.7">
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
-<a href="YOUR_TWITTER">
-<img src="https://skillicons.dev/icons?i=twitter"/>
+<a href="https://www.instagram.com/sovryxtech">
+<img src="https://img.shields.io/badge/Sovryx%20Tech-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="https://sovryxtech.com.np">
+<img src="https://img.shields.io/badge/Website-Sovryx%20Tech-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="YOUR_WEBSITE">
-<img src="https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge"/>
-</a>
-
-</p>
-
----
-
-# ☕ Support
-
-<p align="center">
-
-<a href="https://buymeacoffee.com/mohit282-cpu">
-<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-yellow?style=for-the-badge&logo=buymeacoffee"/>
-
+<a href="mailto:sovryx.tech@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 💭 Random Dev Quote
+# 💡 Quote
 
-<p align="center">
+<div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+### "Technology should solve real problems, empower businesses, and inspire innovation."
 
-</p>
-
----
-
-# 😂 Random Dev Meme
-
-<p align="center">
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
-
-</p>
-
----
-
-# 🎵 Spotify (Optional)
-
-<p align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem"/>
-
-</p>
+</div>
 
 ---
 
@@ -273,6 +281,8 @@
 
 ## ⭐ Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:0F2027,50:203A43,100:2C5364"/>
+If you enjoy my projects, don't forget to ⭐ my repositories and follow me.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:0F172A,50:2563EB,100:38BDF8"/>
 
 </div>
