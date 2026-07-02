@@ -116,15 +116,15 @@
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohit282-cpu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=mohit282-cpu&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit282-cpu&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -134,7 +134,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mohit282-cpu&theme=tokyonight&no-frame=true&no-bg=true&column=4"/>
 
 </p>
 
@@ -144,7 +144,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohit282-cpu&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -154,7 +154,7 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/mohit282-cpu/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -164,17 +164,17 @@
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohit282-cpu&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohit282-cpu&theme=tokyonight"/>
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=tokyonight"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohit282-cpu&theme=tokyonight"/>
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=tokyonight"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohit282-cpu&theme=tokyonight"/>
 
 </p>
 
@@ -184,11 +184,11 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=mohit282-cpu&style=for-the-badge&color=blueviolet"/>
 
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/mohit282-cpu?style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/mohit282-cpu?style=for-the-badge"/>
 
 </p>
 
@@ -198,7 +198,7 @@
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/mohit282-cpu">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
@@ -230,7 +230,7 @@
 
 <p align="center">
 
-<a href="https://buymeacoffee.com/YOUR_USERNAME">
+<a href="https://buymeacoffee.com/mohit282-cpu">
 <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-yellow?style=for-the-badge&logo=buymeacoffee"/>
 
 </a>
