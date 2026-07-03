@@ -9,15 +9,15 @@
 
 <h3>🚀 Founder & CEO of Sovryx Tech</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Founder+of+Sovryx+Tech;AI+%26+Cloud+Solutions;Open+Source+Contributor"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Founder+of+Sovryx+Tech;AI+%26+Cloud+Enthusiast;Open+Source+Contributor;Building+SaaS+Solutions"/>
 
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=mohit282-cpu&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/mohit282-cpu?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/followers/mohit282-cpu?style=for-the-badge&logo=github&label=Followers"/>
 
-<img src="https://img.shields.io/github/stars/mohit282-cpu?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/mohit282-cpu?style=for-the-badge&logo=github&label=Stars"/>
 
 </div>
 
@@ -27,43 +27,43 @@
 
 <img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-🎓 IT Student from Nepal 🇳🇵
+🎓 **IT Student** from Nepal 🇳🇵
 
-🏢 Founder & CEO of **Sovryx Tech**
+🏢 **Founder & CEO** of **Sovryx Tech** - Affordable software development & cloud solutions
 
-💻 Passionate Full Stack Developer
+💻 **Passionate Full Stack Developer** with expertise in modern web & mobile technologies
 
-🚀 Open Source Contributor
+🚀 **Open Source Contributor** actively building & sharing innovative solutions
 
-🌍 Building SaaS, AI, IoT and Cloud Solutions
+🌍 **Building SaaS, AI, IoT and Cloud Solutions** that solve real-world problems
 
-💡 I love solving real-world problems through technology and building products that help businesses grow.
+💡 **Mission**: Empower businesses through technology, create products that scale, inspire innovation
 
 ---
 
 ## 🌱 Currently Learning
 
-- Artificial Intelligence
-- Cloud Computing
-- DevOps
-- Cyber Security
-- System Design
-- Software Architecture
+- 🤖 **Artificial Intelligence & Machine Learning**
+- ☁️ **Advanced Cloud Architecture**
+- 🔧 **DevOps & Infrastructure as Code**
+- 🔐 **Cyber Security & Penetration Testing**
+- 🏗️ **System Design & Scalability**
+- 📐 **Software Architecture Patterns**
 
 ---
 
 ## 🎯 Current Focus
 
-- 🚀 SaaS Product Development
-- 🤖 AI Applications
-- ☁ Cloud Infrastructure
-- 🌐 Modern Web Development
-- 📱 Mobile Applications
-- 🔒 Cyber Security
+- 🚀 **SaaS Product Development** - Building scalable software as a service
+- 🤖 **AI Applications** - Chatbots, automation, business intelligence
+- ☁️ **Cloud Infrastructure** - AWS, GCP, Docker, Kubernetes
+- 🌐 **Modern Web Development** - React, Next.js, full-stack applications
+- 📱 **Mobile Applications** - Cross-platform development
+- 🔒 **Cyber Security** - Secure architecture, penetration testing
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 
@@ -75,7 +75,7 @@
 
 ---
 
-### ⚛ Frontend
+### ⚛️ Frontend Development
 
 <p align="center">
 
@@ -85,7 +85,7 @@
 
 ---
 
-### ⚙ Backend
+### ⚙️ Backend Development
 
 <p align="center">
 
@@ -95,7 +95,7 @@
 
 ---
 
-### 🗄 Database
+### 🗄️ Databases
 
 <p align="center">
 
@@ -105,17 +105,17 @@
 
 ---
 
-### ☁ DevOps & Cloud
+### ☁️ DevOps & Cloud
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=docker,linux,cloudflare,githubactions,nginx"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,cloudflare,githubactions,nginx"/>
 
 </p>
 
 ---
 
-### 🛠 Tools
+### 🛠️ Development Tools
 
 <p align="center">
 
@@ -127,39 +127,14 @@
 
 # 🚀 Featured Projects
 
-## 🏢 Sovryx Tech
-
-Affordable software development company delivering websites, software, SaaS products and cloud solutions.
-
----
-
-## 🍽 Restaurant QR Ordering System
-
-QR-based restaurant ordering platform with admin dashboard, kitchen management and payment integration.
-
----
-
-## 🔐 Smart Door Security System
-
-Face Recognition • Fingerprint • GSM Alerts • Cloud Dashboard • IoT Security
-
----
-
-## 🏫 School ERP
-
-Attendance • Fees • Exams • Results • Student Management
-
----
-
-## 📦 Business ERP
-
-Inventory • CRM • Billing • Accounting • HRM • Reports
-
----
-
-## 🤖 AI Solutions
-
-Custom AI Chatbots • Automation • Business Intelligence
+| Project | Description |
+|---------|-------------|
+| 🏢 **Sovryx Tech** | Affordable software development company delivering websites, software, SaaS products and cloud solutions |
+| 🍽️ **Restaurant QR Ordering System** | QR-based restaurant ordering platform with admin dashboard, kitchen management and payment integration |
+| 🔐 **Smart Door Security System** | Face Recognition • Fingerprint • GSM Alerts • Cloud Dashboard • IoT Security |
+| 🏫 **School ERP** | Attendance • Fees • Exams • Results • Student Management |
+| 📦 **Business ERP** | Inventory • CRM • Billing • Accounting • HRM • Reports |
+| 🤖 **AI Solutions** | Custom AI Chatbots • Automation • Business Intelligence |
 
 ---
 
@@ -175,7 +150,7 @@ Custom AI Chatbots • Automation • Business Intelligence
 
 <p align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit282-cpu&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit282-cpu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </p>
 
@@ -185,7 +160,7 @@ Custom AI Chatbots • Automation • Business Intelligence
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mohit282-cpu&theme=algolia&no-frame=true&column=4&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mohit282-cpu&theme=algolia&no-frame=true&column=4&margin-w=15&row=1"/>
 
 </p>
 
@@ -195,7 +170,7 @@ Custom AI Chatbots • Automation • Business Intelligence
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohit282-cpu&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohit282-cpu&theme=react-dark&hide_border=true&bg_color=0D1117"/>
 
 </p>
 
@@ -203,23 +178,15 @@ Custom AI Chatbots • Automation • Business Intelligence
 
 # 🐍 Contribution Snake
 
-<p align="center">
-
 <picture>
-
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohit282-cpu/mohit282-cpu/output/github-contribution-grid-snake-dark.svg">
-
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohit282-cpu/mohit282-cpu/output/github-contribution-grid-snake.svg">
-
-<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/mohit282-cpu/mohit282-cpu/output/github-contribution-grid-snake-dark.svg">
-
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohit282-cpu/mohit282-cpu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohit282-cpu/mohit282-cpu/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/mohit282-cpu/mohit282-cpu/output/github-contribution-grid-snake-dark.svg">
 </picture>
-
-</p>
 
 ---
 
-# 📋 GitHub Summary
+# 📋 GitHub Profile Summary
 
 <p align="center">
 
@@ -244,34 +211,36 @@ Custom AI Chatbots • Automation • Business Intelligence
 <p align="center">
 
 <a href="https://github.com/mohit282-cpu">
-<img src="https://skillicons.dev/icons?i=github"/>
+  <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="https://www.instagram.com/mohit.shrestha.7">
-<img src="https://skillicons.dev/icons?i=instagram"/>
+  <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
 <a href="https://www.instagram.com/sovryxtech">
-<img src="https://img.shields.io/badge/Sovryx%20Tech-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sovryx%20Tech-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://sovryxtech.com.np">
-<img src="https://img.shields.io/badge/Website-Sovryx%20Tech-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Website-Sovryx%20Tech-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="mailto:sovryx.tech@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 💡 Quote
+# 💡 Philosophy
 
 <div align="center">
 
-### "Technology should solve real problems, empower businesses, and inspire innovation."
+### *"Technology should solve real problems, empower businesses, and inspire innovation."*
+
+### *"Every line of code is an opportunity to make someone's life better."*
 
 </div>
 
@@ -281,7 +250,10 @@ Custom AI Chatbots • Automation • Business Intelligence
 
 ## ⭐ Thanks for visiting my profile!
 
-If you enjoy my projects, don't forget to ⭐ my repositories and follow me.
+If you enjoy my projects and find them helpful, please consider:
+- ⭐ **Starring** my repositories
+- 🔗 **Following** me for more updates
+- 💬 **Collaborating** on interesting projects
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:0F172A,50:2563EB,100:38BDF8"/>
 
